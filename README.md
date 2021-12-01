@@ -48,7 +48,7 @@ i salgsarbeid. Du selger deg selv og/eller bidrar til at teamet får nye oppgave
 
 Du bidrar bredt utenfor ditt hovedfelt med Kantega som nedslagsfelt. Du tar strategisk ansvar i prosjekter/prosesser. Du
 bidrar til at andre blir solgt ut til kunder og at andre er og opptrer som faglig dyktige. Du er trygg i rollen, og du
-håndterer det ukjente på engod og tillitsvekkende måte.
+håndterer det ukjente på en god og tillitsvekkende måte.
 
 ## Handlingsramme
 
@@ -208,7 +208,7 @@ måte.
 Du markedsfører på eget initiativ Kantega og ditt fagfelt eksternt. Du bidrar i salgsprosesser, være seg i skriftlig
 innsalg, eller fysisk i kundemøter og er god til å forstå kundebehov og fremheve Kantegas verdi til kunden.
 
-### 9 - Sjefs-konsulent
+### 9 - Sjefskonsulent
 
 Du er i posisjon til å gå i dialog med og være rådgiver for beslutningstakere hos kunde. Kunden lytter til dine råd og
 innhenter ekspertisen din utover prosjektet du er i. Kunden opplever din ekspertise som bred, og anerkjenner deg som en
@@ -220,7 +220,7 @@ Beskriver hvor mye utdannelse og erfaring en person har. Hensikten er at erfarin
 på lønnen.
 
 For å finne det samlede antall år tar man relevant utdannelse og plusser det sammen med relevant erfaring. Man begynner
-på 5 med 5 års utdannelse og øker 1 poeng hvert andre år. En samlet utdannelse og erfaring på 13 år vil gi nivå 9
+på 5 med 5 års utdannelse og øker 1 poeng hvert andre år. En samlet utdannelse og erfaring på 13 år vil gi nivå 9.
 
 | Trinn               | Sum relevant erfaring og utdannelse |
 | ------------------- | ----------------------------------- | 
