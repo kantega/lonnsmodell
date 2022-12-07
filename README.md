@@ -1,6 +1,6 @@
 # Kantega lønnsmodell - konsulent
 
-Sist oppdatert september 2021
+Sist oppdatert november 2022
 
 ## Kategorier
 
@@ -73,16 +73,18 @@ Du arbeider selvstendig med oppgavene dine. Du finner din plass i teamet, stille
 ved behov.
 
 ### 6 - Konsulent
-
-Du begynner å ta større plass i teamet. Du bruker erfaringene dine og tar initiativ til å løfte frem forbedringsområder.
+Du har over noe tid tatt større plass i teamet. Du har gjort deg noen erfaringer, og disse bruker du til å ta initiativ
+til å løfte frem forbedringsområder. 
 Teammedlemmene er trygge på at når du tar på deg en oppgave så løfter du frem ev. utfordringer for å få innspill før det
 er for sent.
 
 ### 7 - Senior
 
-Du forstår kundens behov og du bruker innsikten du opparbeider deg til å prioritere de oppgavene som gir størst
-kundeverdi. Du lærer av tidligere erfaringer og bygger på disse for at teamet skal velge riktig innfallsvinkel, eller
-agere på resultat. Du har opparbeidet deg tillit og posisjon som kan gi deg større handlingsrom hos kunden.
+Du forstår kundenes behov og du bruker innsikten du opparbeider deg til å prioritere de oppgavene som gir størst
+kundeverdi. 
+Du bruker erfaringer fra tidligere prosjekter og bygger på disse for at teamet skal velge riktig innfallsvinkel, eller
+agere på resultat.
+Du har opparbeidet deg tillit og posisjon som kan gi deg større handlingsrom hos kunden.
 
 ### 8 - Ekspert
 
@@ -165,13 +167,12 @@ Du ser og bidrar til å løfte andre ansatte og kunden innenfor fagområdet. Du 
 til riktig nivå hos kunden.
 
 *Enten:* Du tar initiativ og viser faglig lidenskap ved å arrangere en arena for kunnskapsspredning,
-*eller:* Du har tillit og tyngde til å ta en formell ansvarsrolle i prosjektet eller hos kunden.
+*eller:* Du tar helhetsansvar i prosjektet du er med på, og for at teamet bygger og (videre)utvikler kundens potensiale. 
 
 ### 9 - Sjefskonsulent
 
-Du har over tid tatt ansvar i strategiske prosjekt internt eller eksternt. Du tar ansvar for å løfte teamets
-rammebetingelser inn i kundens beslutningsorgan. Du tar helhetsansvar for prosjektet du er med på, og tar ansvar for å
-bygge og (videre)utvikle kundens potensiale.
+Du har over tid tatt ansvar i strategiske prosjekt internt eller eksternt. 
+Du er i posisjon til å gå i dialog med og være rådgiver for beslutningstakere hos kunde.
 
 ## Kommunikasjon
 
@@ -194,25 +195,24 @@ muntlig internt.
 
 ### 6 - Konsulent
 
-Du holder noe av kundedialogen selv, og du kommuniserer hva kunden kan forvente. Du deltar aktivt i interne diskusjoner,
-stiller spørsmål og deler av din kompetanse i teamet.
+Du holder i noe av kundedialogen selv slik at teamet og kunden er trygge på deg.
+Du deltar aktivt i interne diskusjoner, stiller spørsmål og deler av din kompetanse i teamet.
 
 ### 7 - Senior
 
-Du løfter andre ved å jevnlig dele din kunnskap internt i Kantega. Du er god til å lytte til andres perspektiv, og i
-fellesskap finne gode løsninger. Du utfordrer kunden, og klarer å formidle ditt perspektiv og synspunkt på en tydelig
-måte.
+Du løfter andre ved å jevnlig dele din kunnskap internt i faglige arenaer i Kantega eller hos kunde. 
+Du er god til å lytte til andres perspektiv, og i fellesskap finne gode løsninger.
+Du utfordrer kunden, og klarer å formidle ditt perspektiv og synspunkt på en tydelig måte.
 
 ### 8 - Ekspert
 
-Du markedsfører på eget initiativ Kantega og ditt fagfelt eksternt. Du bidrar i salgsprosesser, være seg i skriftlig
-innsalg, eller fysisk i kundemøter og er god til å forstå kundebehov og fremheve Kantegas verdi til kunden.
+Du synliggjør Kantega eksternt gjennom å dele kunnskap om ditt eget fagfelt.
+Du bidrar i salgsprosesser, være seg i skriftlig innsalg, eller fysisk i kundemøter og er god til å forstå kundebehov og fremheve Kantegas verdi til kunden.
 
 ### 9 - Sjefskonsulent
 
-Du er i posisjon til å gå i dialog med og være rådgiver for beslutningstakere hos kunde. Kunden lytter til dine råd og
-innhenter ekspertisen din utover prosjektet du er i. Kunden opplever din ekspertise som bred, og anerkjenner deg som en
-rådgiver.
+Kunden opplever din ekspertise som bred, og anerkjenner deg som en rådgiver. 
+Du synliggjør Kantega eksternt gjennom å dele kunnskap ut over ditt eget fagfelt.
 
 ## Kvalifikasjon
 
