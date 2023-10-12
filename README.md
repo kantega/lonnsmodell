@@ -1,6 +1,6 @@
 # Kantega lønnsmodell - konsulent
 
-Sist oppdatert november 2022
+Sist oppdatert oktober 2023.
 
 ## Kategorier
 
@@ -34,7 +34,7 @@ godt kjent med enkelte områder, men mangler bredde.
 
 ### 7 - Senior (Kunde)
 
-Du har blitt senior. Du hjelper nå andre med å ta sine valg, og bidrar til å veilede kunden. Du samarbeider godt og
+Du er senior. Du hjelper nå andre med å ta sine valg, og bidrar til å veilede kunden. Du samarbeider godt og
 bidrar til at teamet finner løsninger på de fleste problemer. Din kompetanse er synlig innenfor fagmiljøet ditt eller på
 kontoret ditt. Det forventes at du tar ansvar for utfordringer som kommer din vei.
 
@@ -73,29 +73,30 @@ Du arbeider selvstendig med oppgavene dine. Du finner din plass i teamet, stille
 ved behov.
 
 ### 6 - Konsulent
-Du har over noe tid tatt større plass i teamet. Du har gjort deg noen erfaringer, og disse bruker du til å ta initiativ
+
+Du har gjort deg noen erfaringer, og disse bruker du til å ta initiativ
 til å løfte frem forbedringsområder. 
 Teammedlemmene er trygge på at når du tar på deg en oppgave så løfter du frem ev. utfordringer for å få innspill før det
 er for sent.
 
 ### 7 - Senior
 
-Du forstår kundenes behov og du bruker innsikten du opparbeider deg til å prioritere de oppgavene som gir størst
-kundeverdi. 
-Du bruker erfaringer fra tidligere prosjekter og bygger på disse for at teamet skal velge riktig innfallsvinkel, eller
-agere på resultat.
 Du har opparbeidet deg tillit og posisjon som kan gi deg større handlingsrom hos kunden.
+
+Du viser fleksbilitet, både gjennom vilje og opparbeidet erfaring, til å gå inn i og mestre ulike enkeltsituasjoner hos kunde og team.
 
 ### 8 - Ekspert
 
-Du bruker forretningssansen kreativt og påvirker teamet og kunde i arbeidet med å velge løsninger og aktiviteter som
-realiserer kundeverdi. Du er en go-to person som har tillit. Kunden og andre i Kantega stoler på din vurderingsevne og
-følger dine anbefalinger. Du har handlingsrom hos kunde utover teamet.
+Du er en go-to person som har tillit. Kunden og andre i Kantega stoler på din vurderingsevne og følger dine anbefalinger. 
+Du har handlingsrom hos kunde utover teamet.
+
+Du viser fleksibilitet, både gjennom vilje og opparbeidet erfaring til å ta den rollen som er det beste for kunde og team.
 
 ### 9 - Sjefskonsulent
 
-Du fungerer som spydspiss mot kunder. Du reagerer på nye muligheter for deg, andre i Kantega eller kunden. Du knytter
-sterke bånd til forretningssiden og jobber aktivt for å gjøre kunden til en viktig strategisk partner for Kantega.
+Du fungerer som spydspiss mot kunder, ser potensielle muligheter hos kunder, og har overblikk over muligheter for å involvere andre fra Kantega.
+
+Du viser fleksibilitet ved å være tålmodig og utholdende i ukjente eller utfordrende situasjoner, og du håndterer flere samti dige situasjoner og roller.
 
 ## Problemløsning
 
@@ -121,19 +122,21 @@ deg faglige utfordringer, og vet hva som er godt nok.
 
 ### 7 - Senior
 
-Du har en god verktøykasse og velger relevante metoder som treffer behovet. Du prøver ut og tilpasser nye metoder etter
-behov for å skape verdi. Du er en viktig del av teamet, og tar initiativ til å løse faglige utfordringer. Du er faglig
-sterk, og jobber aktivt for å lære mer om fagområdet ditt.
+Du er en fagperson som anerkjennes av teamet, du tar initiativ til å løse de faglige utfordringene.
+
+Du jobber aktivt for å utvide verktøykassen din. Du prøver ut og tilpasser nye metoder etter behov for å skape verdi.
 
 ### 8 - Ekspert
 
-Du er en fagperson som anerkjennes av kunden, og har kompetanse det legges merke til. Du har vist deg i stand til, å
-lede an, eller være sterkt delaktig i å håndtere og ta større faglige avgjørelser som har stor betydning for kunden.
+Du er en fagperson som anerkjennes av kunden, og har kompetanse det legges merke til. 
+
+Du har vist deg i stand til, å lede an, eller være sterkt delaktig i å håndtere og ta større faglige avgjørelser som har stor verdi for kunden.
 
 ### 9 - Sjefskonsulent
 
-Du er essensiell for løsning av kundens 'umulige' oppgaver. Du løser problemstillinger som går utover teamets rammer for
-å bistå kunden i å ta riktige retningsvalg fremover.
+Du er essensiell for løsning av kundens 'umulige' oppgaver. 
+
+Du hjelper kunden, utover teamets rammer, med å ta betydningsfulle retningsvalg som øker kundens konkurransekraft.
 
 ## Ledelse/ansvar
 
