@@ -83,7 +83,7 @@ er for sent.
 
 Du har opparbeidet deg tillit og posisjon som kan gi deg større handlingsrom hos kunden.
 
-Du viser fleksbilitet, både gjennom vilje og opparbeidet erfaring, til å gå inn i og mestre ulike enkeltsituasjoner hos kunde og team.
+Du viser fleksibilitet, både gjennom vilje og opparbeidet erfaring, til å gå inn i og mestre ulike enkeltsituasjoner hos kunde og team.
 
 ### 8 - Ekspert
 
