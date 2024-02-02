@@ -96,7 +96,7 @@ Du viser fleksibilitet, både gjennom vilje og opparbeidet erfaring til å ta de
 
 Du fungerer som spydspiss mot kunder, ser potensielle muligheter hos kunder, og har overblikk over muligheter for å involvere andre fra Kantega.
 
-Du viser fleksibilitet ved å være tålmodig og utholdende i ukjente eller utfordrende situasjoner, og du håndterer flere samti dige situasjoner og roller.
+Du viser fleksibilitet ved å være tålmodig og utholdende i ukjente eller utfordrende situasjoner, og du håndterer flere samtidige situasjoner og roller.
 
 ## Problemløsning
 
