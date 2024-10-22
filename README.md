@@ -1,6 +1,6 @@
 # Kantega lønnsmodell - konsulent
 
-Sist oppdatert oktober 2023.
+Sist oppdatert oktober 2024.
 
 ## Kategorier
 
@@ -25,7 +25,7 @@ Du er nyutdannet med bachelor, uten relevant arbeidserfaring.
 
 ### 5 - Junior (Deg)
 
-Du har fått litt arbeidserfaring, eller du er nyutdannet med master. Du trenger veiledning, men er dyktig i faget.
+Du bygger på din mastergrad, og/eller din begrensede arbeidserfaring. Du er kompetent i faget, men trenger fremdeles veiledning.
 
 ### 6 - Konsulent (Team)
 
@@ -34,7 +34,7 @@ godt kjent med enkelte områder, men mangler bredde.
 
 ### 7 - Senior (Kunde)
 
-Du er senior. Du hjelper nå andre med å ta sine valg, og bidrar til å veilede kunden. Du samarbeider godt og
+Du hjelper andre med å ta sine valg, og bidrar til å veilede kunden. Du samarbeider godt og
 bidrar til at teamet finner løsninger på de fleste problemer. Din kompetanse er synlig innenfor fagmiljøet ditt eller på
 kontoret ditt. Det forventes at du tar ansvar for utfordringer som kommer din vei.
 
@@ -55,13 +55,8 @@ håndterer det ukjente på en god og tillitsvekkende måte.
 Handlingsramme beskriver hvor selvstendig du er og hvor stort behov for oppfølging du trenger, sett i sammenheng med
 vanskelighetsgraden av oppgavene du gjør og administrative forventninger/rutiner.
 
-Det at du er fleksibel og kan påta deg oppgaver innenfor et bredere spekter (for eksempel fasilitering eller andre
-fagområder), blir tatt med i betraktning her. Fleksibilitet menes også inn mot vilje og evne til å ta på deg ulike typer
-roller og kunder.
-
-Uformell leder, sørger for at ting bare blir gjort, bidrar til en god kultur.
-
-Forretningssans
+Det at du er fleksibel, samarbeidsvillig og kan påta deg oppgaver innenfor et bredere spekter (T-kompetanse), blir tatt med i betraktning her.
+Fleksibilitet menes også inn mot vilje og evne til å ta på deg ulike typer roller og kunder.
 
 ### 4 - Junior
 
@@ -145,6 +140,8 @@ selv og opp til kunden og Kantega som helhet, innenfor ulike fagområder og pros
 
 Her vurderes også i hvor stor grad du har tillit, både i teamet og hos kunden, og hvor godt du legger til rette for
 forbedringer og videreutvikling på ulike områder (eksempelvis fag, prosess)
+
+Uformell leder, sørger for at ting bare blir gjort, bidrar til en god kultur.
 
 ### 4 - Junior
 
